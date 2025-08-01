@@ -1,0 +1,1 @@
+git config --global --add safe.directory G:\IA\11b-Crear-Imagen-ICO-GUI\github
